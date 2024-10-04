@@ -1,0 +1,65 @@
+net user Administrator /active:yes
+net user Administrator #D3Pl0y_M3nT$
+WMIC USERACCOUNT WHERE Name='Administrator' SET PasswordExpires=FALSE
+
+________________________________________________________________________________________________________________
+
+PDINC0004724414 
+
+Workaround Steps:
+
+1.	Boot Windows into Safe Mode or the Windows Recovery Environment
+2.	Navigate to the C:\Windows\System32\drivers\CrowdStrike directory
+3.	Locate the file matching “C-00000291*.sys”, and delete it. 
+4.	Boot the host normally. 
+
+________________________________________________________________________________________________________________
+
+Steps followed shared by Hitesh patel for the crowdstrike issue.
+________________________________________________________________________________________________________________
+
+
+Skyline access using : 
+
+http://172.20.93.228:9999
+http://vl-aus-test003.bmc.com:9999/
+________________________________________________________________________________________________________________
+
+
+create asset form page using same header and it's content - the form should have below requirement.
+
+Asset Section :
+
+1) Asset type(required) <dropdown with live search - > Accounts, Application, Card, CD-ROM Drive, Chassis, Cluster, Computer System, Database, Storage, Disk Drive, Inventory Location, Document, CPU, Keyboard (Wired), Keyboard (Wireless), Mouse (Wired), Mouse (Wireless), LAN/WAN Cable, Memory (RAM), Monitor, Operating System (OS), Printer, Processor, RACK, Software, UPS, Router, WiFi - Endpoint - kindly add this list in alphabeticly.
+
+General Section : 
+
+2) Asset name(required)
+3) Description(required)
+4) Impact <dropdown> - 1-Extensive/Widespread, 2-Significant/Large, 3-Moderate/Limited, 4-Minor/Localize
+5) Urgency <dropdown> - 1-Critical, 2-High, 3-Medium, 4-Low (please assign text color accordingly)
+6) CI ID or Type
+7) Status <dropdown> Ordered, Received, Being Assembled, Deployed, In Repair, Down, End Of Life
+8) Tag number
+9) Serial number
+
+Lifecycle dates section :
+
+1. Available date
+2. Installation date
+3. Received date
+4. Return date
+5. Disposal date
+6. Purchase date
+
+Financials section :
+
+1) Invoice number
+2) attachment as pdf/images all extensions
+
+______________________________________________________
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHTbR+v496XqWC7CjtSHPjPE3kUb39ZrifrnkvEfY0sY VW-AUS-CF-004+Administrator@vw-aus-cf-004
+
+

@@ -1,0 +1,25 @@
+PartyPing.apk : 
+Send auto messager on date trigger
+
+DeviceDefend.apk : 
+To protect mobile from power on/off/reboot and notification drawer. 
+Also impliment mobile-data, aeroplane mode, wifi and bluetooth turn-off will ask for authentication.
+Should send live geo location to servers and can be searched using model number/IMEI /phone number and email id.
+Ask user if they need access to live location and full control of device then should have to pay Rs.365/ per year.
+_________________________________
+
+create a ticketing system using PHP/JS/Bootstrap/SQL, where a support group should be there and every support group should have multiple employees.
+Only the IT admin support group can update/edit tickets, and control the ticket priority.
+The ticket should be automatically generated once a new mail comes under the helpdesk@domain.com email and it should contain the requester's name, email & support group.
+Also, the ticket can be moved across multiple support groups or directly to the support engineer from any support group and it should have an activity tracker where every single activity log is recorded.
+ticker should have status like in progress, assigned, pending, resolved, and closed.
+The ticket should be auto-closed and cannot be modifiable after 7 days of resolved status.
+It should generate a unique request number in series starting with "CZINC0000000000". 
+It should have a search box in the header and can be searchable in live search with a request ID. 
+Also implement basic login/register system with db in popup or lightbox.
+display a list of users while searching for usernames on ticket creation. Once the user is selected- auto-fill the email ID/full name/support group/employee id.
+
+
+_____________________________________
+
+_____________________________________

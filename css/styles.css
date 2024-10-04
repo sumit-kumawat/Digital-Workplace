@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.container {
+    margin-top: 20px; /* Adjust top margin as needed */
+}
+
+.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+
+.dropdown-menu {
+    min-width: 200px;
+}
+
+.logo img {
+    max-height: 40px; /* Adjust height as needed */
+}
+
+/* Remove default margins/padding for dropdown */
+.dropdown-menu {
+    margin: 0;
+    padding: 0;
+}

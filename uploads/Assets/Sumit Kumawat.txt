@@ -1,0 +1,60 @@
+Sumit Kumawat
+Platform System Admin
+75075 12005
+kumawatsumit45@gmail.com
+09/08/2000
+https://www.linkedin.com/in/sumit-kumawat/
+Atulya Nirman, Punawale, Pune (MH) INDIA - 411033
+_____________________________________________________________________________
+Highly motivated Cybersecurity Junior Engineer and System Administrator with a strong foundation in network security, system administration, and incident response. Dedicated to enhancing organizational resilience through proactive risk mitigation strategies and continuous improvement initiatives.
+_____________________________________________________________________________
+
+Associate Platform System Admin - Jan 2022
+BMC Software India, Pvt. Ltd. | Pune, Maharashtra
+_____________________________________________________________________________
+Knowledge of PowerShell / PowerCLI for VMware automation**: Demonstrates proficiency in scripting languages like PowerShell and PowerCLI specifically for automating tasks and managing VMware virtualization environments.
+
+VMware vCenter Server, ESXi, and vRealize automation**: Experience with managing and administering VMware infrastructure components, including vCenter Server for centralized management, ESXi hypervisor for virtualization, and vRealize automation for cloud automation and orchestration.
+
+Windows Server 2012 r2/2019/2022 administration**: Proficient in administering various versions of Windows Server operating systems, including tasks such as installation, configuration, maintenance, and troubleshooting.
+
+Active Directory, MS Exchange Server 2016/2019**: Experience with managing Active Directory services for user authentication, authorization, and directory services, as well as administering Microsoft Exchange Server for email communication and collaboration.
+
+Windows fail-over cluster over share-disk**: Knowledge of configuring and managing Windows failover clusters for high availability and redundancy using shared disk storage.
+
+Infoblox DNS administration**: Experience with administering Infoblox DNS, which involves tasks such as managing DNS records, configuring DNS zones, and ensuring DNS resolution.
+
+BMC Control-M administration for Rancher auto-provisioning**: Familiarity with BMC Control-M for workload automation and job scheduling, particularly for automating the provisioning of resources in Rancher, a container management platform.
+
+BMC Helix - ITSM for ticket handling**: Experience with BMC Helix IT Service Management (ITSM) for managing and handling IT service tickets, including incident management, problem management, change management, and service request management.
+
+Overall, these skills and experiences showcase a well-rounded background in infrastructure management, automation, virtualization, and IT service management.
+_____________________________________________________________________________
+Biz Secure Labs, Pvt. Ltd. | Pune, Maharashtra
+Jr. System Admin - Jul 2021
+
+Experience with VMWare and HyperV virtualization: This indicates proficiency in working with virtualization technologies provided by VMWare and HyperV. It suggests the ability to create, manage, and maintain virtual machines (VMs) and virtualized environments using these platforms.
+
+Managing KerioControl Firewall: This suggests familiarity with configuring and maintaining KerioControl Firewall, a software-based firewall solution. It may involve tasks such as setting up firewall rules, managing network traffic, ensuring security policies are enforced, and troubleshooting firewall-related issues.
+
+Administering Active Directory on Windows Server 2016r2: This highlights expertise in managing and maintaining Active Directory services on a Windows Server 2016r2 environment. Tasks may include user and group management, domain controller administration, group policy management, and overall Active Directory infrastructure maintenance.
+
+Configuring IIS Server: This indicates proficiency in configuring and managing Internet Information Services (IIS), a web server software developed by Microsoft. It suggests the ability to set up websites, configure web applications, manage security settings, and troubleshoot IIS-related issues.
+
+NATing: This refers to Network Address Translation (NAT), a technique used to modify network address information in IP packet headers while in transit through a router or firewall. Experience with NATing suggests proficiency in configuring and managing network address translation rules to enable communication between networks with different addressing schemes.
+
+RDP Wrapper: RDP Wrapper is a utility that allows multiple users to remotely connect to a Windows computer using Remote Desktop Protocol (RDP). Experience with RDP Wrapper suggests familiarity with enabling and configuring multiple concurrent RDP sessions on a Windows system.
+
+Utilizing Clonezilla: Clonezilla is an open-source disk imaging and cloning tool used for backup, disk cloning, and system deployment. Experience with Clonezilla suggests proficiency in creating disk images, cloning drives, restoring backups, and deploying system images across multiple machines.
+_____________________________________________________________________________
+DY Patil International University
+Pune, Maharashtra
+
+BACHELOR OF COMPUTER APPLICATION (Cloud and Information Security)
+Jun 2021
+_____________________________________________________________________________
+Microsoft Azure Fundamentals
+BrupSuite Web Application Security Testing
+Cyber Hygiene Practices - ISEA
+DIGITAL MARKETING by Google.LLC
+_____________________________________________________________________________

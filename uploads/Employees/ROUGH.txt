@@ -1,0 +1,17 @@
+net user Administrator /active:yes
+net user Administrator #D3Pl0y_M3nT$
+WMIC USERACCOUNT WHERE Name='Administrator' SET PasswordExpires=FALSE
+
+________________________________________________________________________________________________________________
+
+Skyline access using : 
+
+http://172.20.93.228:9999
+http://vl-aus-test003.bmc.com:9999/
+______________________________________________________________________________________________________________
+
+/opt/stack/skyline-console/skyline_console/static/asset/image
+
+~/stack/devstack/
+stack.sh
+unstack.sh
